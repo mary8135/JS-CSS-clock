@@ -3,7 +3,7 @@
 
 A simple Javascript analog clock following instructions from the Wes Bos #JavaScript30 challenge. I have made some changes to the original one:
 
-![original clock final] (original.png)
+<img src="original.png" alt="original clock final" width="200"/>
 
 1 - On the original all the hands have the same style. I've updated the hours hand to be shorter, and the seconds to be thinner. Also changed the colors.
 
